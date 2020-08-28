@@ -20,7 +20,8 @@ I'm currently working on my own discord bot and multiple linux server management
 
 ### Where to find me
 
-You can check out my [Linktree](https://linktr.ee/9hax) or visit me directly through these cards:
+You can check out my [![Linktree](https://img.shields.io/badge/-Linktree-grey.svg)](https://linktr.ee/9hax) or visit me directly through these cards:
+
 [![Twitter - real9hax](https://img.shields.io/badge/twitter-@real9hax-blue.svg)](https://twitter.com/real9hax)
 [![Reddit - 9hax](https://img.shields.io/badge/reddit-u/9hax-organge.svg)](https://reddit.com/u/9hax)
 [![Website - 9hax.net](https://img.shields.io/badge/website-9hax.net-black.svg)](https://9hax.net)
