@@ -1,16 +1,26 @@
-### Hi there 👋
+## Welcome to my Profile!
 
-<!--
-**9hax/9hax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hope that you stick around for a while.
 
-Here are some ideas to get you started:
+### Programming and Markup languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can program in Python3, Java, JavaScript with Node and some proprietary languages like CAPL. 
+I also use Markup languages like HTML and CSS, Markdown and LaTeX almost daily.
+
+### Current projects
+
+I'm currently working on my own discord bot and multiple linux server management tools.
+
+### About me
+
+- 🌱 I’m currently learning NodeJS and PHP.
+- 💬 Ask me about music, server management and internet services.
+- 🌈 My pronouns are they/them.
+- ⚡ Fun fact: About 90% of fun facts are not actually interesting and forgot after less than 17 seconds.
+
+### Where to find me
+
+You can check out my [Linktree](https://linktr.ee/9hax) or visit me directly through these cards:
+[![Twitter - real9hax](https://img.shields.io/badge/twitter-@real9hax-blue.svg)](https://twitter.com/real9hax)
+[![Reddit - 9hax](https://img.shields.io/badge/reddit-u/9hax-organge.svg)](https://reddit.com/u/9hax)
+[![Website - 9hax.net](https://img.shields.io/badge/website-9hax.net.svg)](https://9hax.net)
