@@ -13,6 +13,7 @@ I'm currently working on my own discord bot and multiple linux server management
 
 ### About me
 
+- 💻 I'm pretty solid in python, java, javascript and can do some basic stuff with websites.
 - 🌱 I’m currently learning NodeJS and PHP.
 - 💬 Ask me about music, server management and internet services.
 - 🌈 My pronouns are they/them.
