@@ -9,7 +9,10 @@ I also use Markup languages like HTML and CSS, Markdown and LaTeX almost daily.
 
 ### Current projects
 
-I'm currently working on my own discord bot and multiple linux server management tools.
+I recently picked up working in IT an noticed that there were no great free and portable ticket system solutions yet, so i started building one. 
+It's called [SimpleTicket](https://github.com/9hax/simpleticket) and you can help me build the best open ticket system ever by contributing.
+
+I'm also working on my own discord bot and multiple linux server management tools.
 
 ### About me
 
