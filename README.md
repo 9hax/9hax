@@ -2,25 +2,35 @@
 
 I hope that you stick around for a while.
 
-### Programming and Markup languages
+### About me
 
-I can program in Python3, Java, JavaScript with Node and some proprietary languages like CAPL. 
-I also use Markup languages like HTML and CSS, Markdown and LaTeX almost daily.
+- 🏫 I'm a student at the HTW Berlin.
+- 💻 I'm pretty solid in python, java, javascript and I can do some basic stuff with [websites](https://9hax.net).
+- 🌱 I’m currently learning NodeJS, PHP and hardware design.
+- 🌈 My pronouns are they/them.
+- ⚡ Fun fact: About 90% of fun facts are not actually interesting and forgotten after less than 17 seconds.
+
+### Programming Languages
+
+- Python2, Python3
+- Java And [C#](https://www.reddit.com/r/ProgrammerHumor/comments/ddc4b0/microsoft_java)
+- JavaScript and NodeJS
+
+### Markup Languages
+
+- Markdown
+- LaTeX
+- HTML (+CSS)
 
 ### Current projects
 
-I recently picked up working in IT an noticed that there were no great free and portable ticket system solutions yet, so i started building one. 
+I recently picked up working in IT an noticed that there were no great free and portable ticket system solutions yet, so I started building one. 
 It's called [SimpleTicket](https://github.com/9hax/simpleticket) and you can help me build the best open ticket system ever by contributing.
 
-I'm also working on my own discord bot and multiple linux server management tools.
+If you find me in a discord server, try out my 9haxbot.
 
-### About me
-
-- 💻 I'm pretty solid in python, java, javascript and can do some basic stuff with websites.
-- 🌱 I’m currently learning NodeJS and PHP.
-- 💬 Ask me about music, server management and internet services.
-- 🌈 My pronouns are they/them.
-- ⚡ Fun fact: About 90% of fun facts are not actually interesting and forgot after less than 17 seconds.
+Under the name [berlinkeys](https://github.com/berllinkeys) i am currently designing a custom 120% keyboard which you can build yourself.
+We will release it when the first parts of design are done.
 
 ### Where to find me
 
