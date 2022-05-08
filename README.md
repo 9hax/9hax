@@ -24,7 +24,7 @@ I hope that you stick around for a while.
 
 ### Current projects
 
-I recently picked up working in IT an noticed that there were no great free and portable ticket system solutions yet, so I started building one. 
+I recently picked up working in IT and noticed that there were no great free and portable ticket system solutions yet, so I started building one. 
 It's called [SimpleTicket](https://github.com/9hax/simpleticket) and you can help me build the best open ticket system ever by contributing.
 
 If you find me in a discord server, try out my 9haxbot.
