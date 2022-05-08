@@ -27,7 +27,7 @@ I hope that you stick around for a while.
 I recently picked up working in IT and noticed that there were no great free and portable ticket system solutions yet, so I started building one. 
 It's called [SimpleTicket](https://github.com/9hax/simpleticket) and you can help me build the best open ticket system ever by contributing.
 
-If you find me in a Discord server, try out my 9haxbot.
+If you find me in a discord server, try out my 9haxbot.
 
 Under the name [berlinkeys](https://github.com/berllinkeys) i am currently designing a custom 120% keyboard which you can build yourself.
 We will release it when the first parts of design are done.
