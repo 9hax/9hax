@@ -4,9 +4,9 @@ I hope that you stick around for a while.
 
 ### About me
 
-- 🏫 I'm a student at the HTW Berlin.
-- 💻 I'm pretty solid in python, java, javascript and I can do some basic stuff with [websites](https://9hax.net).
-- 🌱 I’m currently learning NodeJS, PHP and hardware design.
+- 🏫 I'm a student at the HWR Berlin.
+- 💻 I'm pretty solid in python and I can do some basic stuff with [websites](https://9hax.net).
+- 🌱 I’m currently learning Golang and hardware design.
 - 🌈 My pronouns are they/them.
 - ⚡ Fun fact: About 90% of fun facts are not actually interesting and forgotten after less than 17 seconds.
 
@@ -15,6 +15,7 @@ I hope that you stick around for a while.
 - Python2, Python3
 - Java And [C#](https://www.reddit.com/r/ProgrammerHumor/comments/ddc4b0/microsoft_java)
 - JavaScript and NodeJS
+- Golang, C++
 
 ### Markup Languages
 
