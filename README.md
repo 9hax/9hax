@@ -14,7 +14,7 @@ I hope that you stick around for a while.
 
 - Python2, Python3
 - Java And [C#](https://www.reddit.com/r/ProgrammerHumor/comments/ddc4b0/microsoft_java)
-- JavaScript and NodeJS
+- JavaScript, TypeScript and NodeJS
 - Golang, C++
 
 ### Markup Languages
