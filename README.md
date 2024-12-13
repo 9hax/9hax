@@ -6,13 +6,12 @@ I hope that you stick around for a while.
 
 - 💻 I'm pretty solid in python and I can do some basic stuff with [websites](https://9h.ax).
 - 🌱 I’m currently learning Golang and hardware design.
-- 🌈 My pronouns are they/them.
 - ⚡ Fun fact: About 90% of fun facts are not actually interesting and forgotten after less than 17 seconds.
 
 ### Programming Languages
 
 - Python2, Python3
-- Java And [C#](https://www.reddit.com/r/ProgrammerHumor/comments/ddc4b0/microsoft_java)
+- [Java And C#](https://www.reddit.com/r/ProgrammerHumor/comments/ddc4b0/microsoft_java)
 - JavaScript, TypeScript and NodeJS
 - Golang, C++
 
