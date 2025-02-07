@@ -28,7 +28,7 @@ It's called [SimpleTicket](https://github.com/9hax/simpleticket) and you can hel
 
 If you find me in a discord server, try out my 9haxbot.
 
-Under the name [berlinkeys](https://github.com/berllinkeys) I am currently designing a custom 120% keyboard which you can build yourself.
+Under the name [berlinkeys](https://github.com/berlinkeys) I am currently designing a custom 120% keyboard which you can build yourself.
 We will release it when the first parts of design are done.
 
 ### Where to find me
